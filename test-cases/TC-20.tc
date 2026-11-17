@@ -1,0 +1,8 @@
+CLEAR
+ADD|Pena|5
+SELL|Pena
+FOO
+ADD|Pena|2|500
+SELL|Pena|1
+LIST
+EXIT

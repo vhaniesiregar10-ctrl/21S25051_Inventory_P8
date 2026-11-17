@@ -1,0 +1,6 @@
+CLEAR
+ADD|Pensil|3|1500
+SELL|Pensil|3
+FIND|Pensil
+LIST
+EXIT

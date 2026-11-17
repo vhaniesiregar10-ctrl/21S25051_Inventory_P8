@@ -1,0 +1,4 @@
+guestbook.txt
+inventory.txt
+__pycache__/
+*.pyc

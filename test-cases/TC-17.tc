@@ -1,0 +1,6 @@
+CLEAR
+ADD|Spidol|4|7500.5
+ADD|Buku|5|20000
+ADD|Pensil|8|1500
+LIST
+EXIT

@@ -1,0 +1,6 @@
+CLEAR
+ADD|Pensil|10|1500
+ADD|Buku|5|20000
+SELL|Pensil|2
+LIST
+EXIT
